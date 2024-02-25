@@ -1,0 +1,11 @@
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\bin\Debug\MyATMaApp.exe.config
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\bin\Debug\MyATMaApp.exe
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\bin\Debug\MyATMaApp.pdb
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\obj\Debug\MyATMaApp.csproj.AssemblyReference.cache
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\obj\Debug\MyATMaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\obj\Debug\MyATMaApp.csproj.CoreCompileInputs.cache
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\obj\Debug\MyATMaApp.exe
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\obj\Debug\MyATMaApp.pdb
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\bin\Debug\ConsoleTables.dll
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\bin\Debug\ConsoleTables.pdb
+C:\Users\bmont\Desktop\C\MyATMaApp\MyATMaApp\obj\Debug\MyATMaApp.csproj.CopyComplete
